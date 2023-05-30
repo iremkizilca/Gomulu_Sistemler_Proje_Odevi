@@ -1,0 +1,1 @@
+# Gomulu_Sistemler_Proje_Odevi
