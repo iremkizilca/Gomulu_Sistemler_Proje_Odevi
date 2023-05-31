@@ -2,4 +2,6 @@
 # PROJE ADI: AKILLI EVLERDE KONTROL SİSTEM
 # PROJEYİ HAZIRLAYANLAR:İREM NUR KIZILCA, TUĞÇE ÖZ, TUĞÇE KARAKAYA, SEDANUR KAŞIKÇI
 # PROJENİN AMACI:
-Akıllı evlerde kontrol sistemi yangın kontrolünü, kapı veya pencerenin açık olup olmadığını ve evden çıkışta ışıgın  açık kalıp kalmamasını kontrol eden bir sistemdir
+Sistem üç farklı durumu kontrol ediyor: yangın, kapı veya pencere açıklığı ve ışık açıklığı. Bu durumlar için farklı butonlar ve ledler kullanılıyor. Yangın için birinci buton ve buz mavisi led, ışık açıklığı için ikinci buton ve pwm ile parlaklığı azaltılmış kırmızı led, kapı veya pencere açıklığı için mavi led kullanılıyor. Herhangi bir sorun olmadığında yeşil led yanıyor.
+
+
